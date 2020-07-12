@@ -6,6 +6,7 @@ Create your personal card
 - Typescript
 
 # Images
+<img src="personal-card.gif" />
 
 # Demo
-Demo | <a href="https://camilosanchezdev.github.io/PersonalCard/">Create your personal card</a>
+GitHub Pages:  <a href="https://camilosanchezdev.github.io/PersonalCard/">Create your personal card</a>
